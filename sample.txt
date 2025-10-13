@@ -1,0 +1,3 @@
+Hii Tute Dude I will be submitting my task
+Trying different lines 
+using lines.strip() command
